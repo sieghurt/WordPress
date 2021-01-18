@@ -20,19 +20,19 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'wordpressjpkk' );
+define( 'DB_NAME', 'ljmgn5v3zqxmrl94' );
 
 /** MySQL database username */
-define( 'DB_USER', 'root' );
+define( 'DB_USER', 'xu71tirdhpfhgpm1' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', '' );
+define( 'DB_PASSWORD', 'xa7j7tos4kfe38pw' );
 
 /** MySQL hostname */
-define( 'DB_HOST', 'localhost' );
+define( 'DB_HOST', 'hwr4wkxs079mtb19.cbetxkdyhwsb.us-east-1.rds.amazonaws.com );
 
 /** Database Charset to use in creating database tables. */
-define( 'DB_CHARSET', 'utf8mb4' );
+define( 'DB_CHARSET', 'utf8' );
 
 /** The Database Collate type. Don't change this if in doubt. */
 define( 'DB_COLLATE', '' );
@@ -88,3 +88,9 @@ if ( ! defined( 'ABSPATH' ) ) {
 
 /** Sets up WordPress vars and included files. */
 require_once ABSPATH . 'wp-settings.php';
+
+@ini_set( 'upload_max_filesize' , '1000M' );
+@ini_set( 'post_max_size', '1000M');
+@ini_set( 'memory_limit', '1000M' );
+@ini_set( 'max_execution_time', '36000' );
+@ini_set( 'max_input_time', '36000' );
