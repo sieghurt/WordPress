@@ -1,0 +1,749 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Trend News\n"
+"POT-Creation-Date: 2020-06-23 06:28+0545\n"
+"PO-Revision-Date: 2020-06-23 06:27+0545\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:21
+msgid "404"
+msgstr ""
+
+#: 404.php:21
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:22
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: 404.php:24
+msgid "Go Home"
+msgstr ""
+
+#: comments.php:25
+msgid "Comments"
+msgstr ""
+
+#: comments.php:30 comments.php:52
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:33
+msgid "&copy; All Right Reserved "
+msgstr ""
+
+#: footer.php:33
+msgid "Y"
+msgstr ""
+
+#. translators: 1: Theme name, 2: Theme author.
+#: footer.php:41
+#, php-format
+msgid "Theme %2$s  By  %1$s"
+msgstr ""
+
+#: functions.php:73
+msgid "Primary"
+msgstr ""
+
+#: functions.php:74
+msgid "Sidemenu"
+msgstr ""
+
+#: functions.php:75
+msgid "Topmenu"
+msgstr ""
+
+#: functions.php:152 widgets/common-widgets/widget-popular-posts.php:33
+#: widgets/common-widgets/widget-popular-posts.php:39
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:154 functions.php:165 functions.php:175 functions.php:185
+#: functions.php:195 functions.php:205 functions.php:216
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:163
+msgid "Frontpage Layouts Area"
+msgstr ""
+
+#: functions.php:173
+msgid "Footer widget Area"
+msgstr ""
+
+#: functions.php:183
+msgid "Front Advertise widget Area"
+msgstr ""
+
+#: functions.php:193
+msgid "Right Side widget Area"
+msgstr ""
+
+#: functions.php:203
+msgid "Middle Head Ad Space Widget"
+msgstr ""
+
+#: functions.php:214
+msgid "Sidenav Widget Area"
+msgstr ""
+
+#: header.php:27
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:110
+msgid "s"
+msgstr ""
+
+#: header.php:174
+msgid "Primary Menu"
+msgstr ""
+
+#: header.php:306
+msgid "Home"
+msgstr ""
+
+#: include/customizer/color/color-customizer.php:17
+msgid "Primary Theme Color"
+msgstr ""
+
+#: include/customizer/color/color-customizer.php:36
+msgid "Secondary Theme Color"
+msgstr ""
+
+#: include/customizer/header-options.php:24
+msgid "Header Options"
+msgstr ""
+
+#: include/customizer/header/bottom-header.php:15
+msgid "Main Menu Right Buttons Setting"
+msgstr ""
+
+#: include/customizer/header/bottom-header.php:16
+msgid "Managed the content display at Main Menu Right Buttons"
+msgstr ""
+
+#: include/customizer/header/bottom-header.php:39
+msgid "Display Latest News Button"
+msgstr ""
+
+#: include/customizer/header/bottom-header.php:51
+msgid "Latest News Title"
+msgstr ""
+
+#: include/customizer/header/bottom-header.php:75
+msgid "Display Popular News Button"
+msgstr ""
+
+#: include/customizer/header/bottom-header.php:87
+msgid "Popular News Title"
+msgstr ""
+
+#: include/customizer/header/middle-header.php:15
+msgid "Middle Header Setting"
+msgstr ""
+
+#: include/customizer/header/middle-header.php:38
+msgid "Display Date & Time"
+msgstr ""
+
+#: include/customizer/header/top-header-display-section.php:15
+msgid "Top Header Display Settings"
+msgstr ""
+
+#: include/customizer/header/top-header-display-section.php:16
+msgid "Managed the content display at top header section."
+msgstr ""
+
+#: include/customizer/header/top-header-display-section.php:38
+msgid "Display Top header"
+msgstr ""
+
+#: include/customizer/header/top-header-display-section.php:64
+msgid "Display Top Menu"
+msgstr ""
+
+#: include/customizer/header/top-header-display-section.php:86
+msgid "Display Search Icon"
+msgstr ""
+
+#: include/customizer/header/top-header-display-section.php:110
+msgid "Display Burger Menu Icon"
+msgstr ""
+
+#: include/customizer/header/top-header-display-section.php:134
+msgid "Display Social Media"
+msgstr ""
+
+#: include/customizer/header/top-header-social-media.php:15
+msgid "Top Header & Side Menu Social Media"
+msgstr ""
+
+#: include/customizer/header/top-header-social-media.php:16
+msgid "Managed the content display at top header and Side Menu Social Media."
+msgstr ""
+
+#: include/customizer/header/top-header-social-media.php:31
+msgid "Facebook URL"
+msgstr ""
+
+#: include/customizer/header/top-header-social-media.php:48
+msgid "Twitter URL"
+msgstr ""
+
+#: include/customizer/header/top-header-social-media.php:65
+msgid "Instagram URL"
+msgstr ""
+
+#: include/customizer/header/top-header-social-media.php:81
+msgid "Youtube URL"
+msgstr ""
+
+#: include/customizer/header/top-header-social-media.php:97
+msgid "Pinterest URL"
+msgstr ""
+
+#: include/customizer/header/top-header-social-media.php:113
+msgid "Dribble URL"
+msgstr ""
+
+#: include/customizer/layout-options.php:24
+msgid "Theme Layout"
+msgstr ""
+
+#: include/customizer/layout-options.php:41
+msgid "Box & Full width"
+msgstr ""
+
+#: include/customizer/layout-options.php:54
+msgid "Select Layout"
+msgstr ""
+
+#: include/customizer/layout-options.php:56
+msgid "Full Width"
+msgstr ""
+
+#: include/customizer/layout-options.php:57
+msgid "Boxed width"
+msgstr ""
+
+#: include/customizer/layout-options.php:68
+msgid "Boxed Width"
+msgstr ""
+
+#. translators: %s: post date.
+#: include/template-tags.php:30
+#, php-format
+msgctxt "post date"
+msgid "%s"
+msgstr ""
+
+#. translators: %s: post author.
+#: include/template-tags.php:46
+#, php-format
+msgctxt "post author"
+msgid "%s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: include/template-tags.php:64
+msgid ", "
+msgstr ""
+
+#. translators: 1: list of categories.
+#: include/template-tags.php:67
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: include/template-tags.php:71
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#. translators: 1: list of tags.
+#: include/template-tags.php:74
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#. translators: %s: post title
+#: include/template-tags.php:84
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: include/template-tags.php:101 template-parts/content-page.php:61
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#. translators: %s: search query.
+#: search.php:24
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: single.php:26
+msgid "Previous:"
+msgstr ""
+
+#: single.php:27
+msgid "Next:"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:27 template-parts/content-single.php:27
+msgid "Comment"
+msgstr ""
+
+#: template-parts/content-page.php:47
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-search.php:35 template-parts/content.php:36
+#: widgets/front-widgets/widget-front-layout3.php:185
+#: widgets/front-widgets/widget-front-layout3.php:226
+msgid "Read More"
+msgstr ""
+
+#: template-parts/content-single.php:40
+msgid "Tags:"
+msgstr ""
+
+#: widgets/common-widgets/widget-popular-posts.php:18
+msgid "Select where your widget is placed. Eg: Sidebar or Footer widget Area"
+msgstr ""
+
+#: widgets/common-widgets/widget-popular-posts.php:33
+#: widgets/common-widgets/widget-popular-posts.php:39
+msgid "sidebar_pp"
+msgstr ""
+
+#: widgets/common-widgets/widget-popular-posts.php:35
+#: widgets/common-widgets/widget-popular-posts.php:41
+msgid "footer_pp"
+msgstr ""
+
+#: widgets/common-widgets/widget-popular-posts.php:35
+#: widgets/common-widgets/widget-popular-posts.php:41
+msgid "Footer"
+msgstr ""
+
+#: widgets/common-widgets/widget-popular-posts.php:47
+#: widgets/front-widgets/widget-front-layout7.php:46
+#: widgets/front-widgets/widget-front-layout8.php:48
+msgid "Title: "
+msgstr ""
+
+#: widgets/common-widgets/widget-popular-posts.php:52
+#: widgets/front-widgets/widget-front-layout1.php:63
+#: widgets/front-widgets/widget-front-layout6.php:60
+#: widgets/front-widgets/widget-front-layout7.php:71
+msgid "Post No: "
+msgstr ""
+
+#: widgets/footer-widgets/widget-footer-about.php:19
+msgid "TN : Footer About"
+msgstr ""
+
+#: widgets/footer-widgets/widget-footer-about.php:20
+msgid "Footer About widgets. Place it within \"Footer widget Area\""
+msgstr ""
+
+#: widgets/footer-widgets/widget-footer-about.php:42
+msgid "Display Footer About Section"
+msgstr ""
+
+#: widgets/footer-widgets/widget-footer-about.php:46
+msgid "Logo:"
+msgstr ""
+
+#: widgets/footer-widgets/widget-footer-about.php:49
+msgid "Upload Image"
+msgstr ""
+
+#: widgets/footer-widgets/widget-footer-about.php:50
+msgid "Remove Image"
+msgstr ""
+
+#: widgets/footer-widgets/widget-footer-about.php:54
+msgid "Description: "
+msgstr ""
+
+#: widgets/footer-widgets/widget-footer-about.php:59
+msgid "Facebook Url: "
+msgstr ""
+
+#: widgets/footer-widgets/widget-footer-about.php:65
+msgid "Twitter Url: "
+msgstr ""
+
+#: widgets/footer-widgets/widget-footer-about.php:71
+msgid "Dribbble Url: "
+msgstr ""
+
+#: widgets/footer-widgets/widget-footer-about.php:76
+msgid "Pinterest Url: "
+msgstr ""
+
+#: widgets/footer-widgets/widget-footer-about.php:81
+msgid "Instagram Url: "
+msgstr ""
+
+#: widgets/footer-widgets/widget-footer-about.php:87
+msgid "Youtube Url: "
+msgstr ""
+
+#: widgets/front-widgets/widget-front-layout1.php:24
+msgid "Trend News Block Layout One. Place it within \"Frontpage Layouts Area\""
+msgstr ""
+
+#: widgets/front-widgets/widget-front-layout1.php:27
+msgid "TN: News Block Layout 1"
+msgstr ""
+
+#: widgets/front-widgets/widget-front-layout1.php:39
+msgid "Display News Block Layout 1"
+msgstr ""
+
+#: widgets/front-widgets/widget-front-layout1.php:43
+msgid "Select Category:"
+msgstr ""
+
+#: widgets/front-widgets/widget-front-layout1.php:56
+#: widgets/front-widgets/widget-front-layout2.php:61
+#: widgets/front-widgets/widget-front-layout2.php:86
+#: widgets/front-widgets/widget-front-layout4.php:70
+#: widgets/front-widgets/widget-front-layout4.php:100
+#: widgets/front-widgets/widget-front-layout5.php:54
+#: widgets/front-widgets/widget-front-layout7.php:65
+#: widgets/front-widgets/widget-front-layout8.php:67
+#: widgets/front-widgets/widget-front-layout8.php:90
+#: widgets/front-widgets/widget-front-layout9.php:73
+#: widgets/front-widgets/widget-front-layout9.php:98
+#: widgets/front-widgets/widget-front-layout9.php:123
+msgid "All category"
+msgstr ""
+
+#: widgets/front-widgets/widget-front-layout2.php:24
+msgid "Trend News Block Layout Two. Place it within \"Frontpage Layouts Area\""
+msgstr ""
+
+#: widgets/front-widgets/widget-front-layout2.php:27
+msgid "TN: News Block Layout 2"
+msgstr ""
+
+#: widgets/front-widgets/widget-front-layout2.php:42
+msgid "Display News Block Layout 2"
+msgstr ""
+
+#: widgets/front-widgets/widget-front-layout2.php:48
+msgid "Select Category Option for left:"
+msgstr ""
+
+#: widgets/front-widgets/widget-front-layout2.php:68
+msgid "Post No For left: "
+msgstr ""
+
+#: widgets/front-widgets/widget-front-layout2.php:73
+msgid "Select Category Option for right:"
+msgstr ""
+
+#: widgets/front-widgets/widget-front-layout2.php:92
+msgid "Post No For right: "
+msgstr ""
+
+#: widgets/front-widgets/widget-front-layout2.php:169
+msgid "Read more"
+msgstr ""
+
+#: widgets/front-widgets/widget-front-layout3.php:19
+msgid ""
+"Trend News Block Layout Three. Place it within \"Frontpage Layouts Area\""
+msgstr ""
+
+#: widgets/front-widgets/widget-front-layout3.php:22
+msgid "TN: News Block Layout 3"
+msgstr ""
+
+#: widgets/front-widgets/widget-front-layout3.php:27
+msgid "Latest News"
+msgstr ""
+
+#: widgets/front-widgets/widget-front-layout3.php:31
+msgid "Popular News"
+msgstr ""
+
+#: widgets/front-widgets/widget-front-layout3.php:40
+msgid "Display News Block Layout 3"
+msgstr ""
+
+#: widgets/front-widgets/widget-front-layout3.php:45
+msgid "Latest News Title: "
+msgstr ""
+
+#: widgets/front-widgets/widget-front-layout3.php:50
+msgid "Select Category for latest post:"
+msgstr ""
+
+#: widgets/front-widgets/widget-front-layout3.php:63
+msgid "Latest Posts"
+msgstr ""
+
+#: widgets/front-widgets/widget-front-layout3.php:70
+msgid "Post No For Latest News: "
+msgstr ""
+
+#: widgets/front-widgets/widget-front-layout3.php:75
+msgid "Popular News Title: "
+msgstr ""
+
+#: widgets/front-widgets/widget-front-layout3.php:80
+msgid "Select Category for popular post:"
+msgstr ""
+
+#: widgets/front-widgets/widget-front-layout3.php:93
+msgid "Popular Posts"
+msgstr ""
+
+#: widgets/front-widgets/widget-front-layout3.php:100
+msgid "Post No For Popular News: "
+msgstr ""
+
+#: widgets/front-widgets/widget-front-layout3.php:105
+#: widgets/front-widgets/widget-front-layout4.php:112
+msgid "Number of slider: "
+msgstr ""
+
+#: widgets/front-widgets/widget-front-layout3.php:110
+#: widgets/front-widgets/widget-front-layout4.php:117
+msgid "Post Number Per Slider: "
+msgstr ""
+
+#: widgets/front-widgets/widget-front-layout4.php:24
+msgid ""
+"Trend News Block Layout Four. Place it within \"Frontpage Layouts Area\""
+msgstr ""
+
+#: widgets/front-widgets/widget-front-layout4.php:27
+msgid "TN: News Block Layout 4"
+msgstr ""
+
+#: widgets/front-widgets/widget-front-layout4.php:48
+msgid "Display News Block Layout 4"
+msgstr ""
+
+#: widgets/front-widgets/widget-front-layout4.php:52
+#: widgets/front-widgets/widget-front-layout9.php:55
+msgid "Title 1: "
+msgstr ""
+
+#: widgets/front-widgets/widget-front-layout4.php:58
+#: widgets/front-widgets/widget-front-layout9.php:61
+msgid "Select Category 1: "
+msgstr ""
+
+#: widgets/front-widgets/widget-front-layout4.php:77
+msgid "Post No 1: "
+msgstr ""
+
+#: widgets/front-widgets/widget-front-layout4.php:82
+#: widgets/front-widgets/widget-front-layout9.php:80
+msgid "Title 2: "
+msgstr ""
+
+#: widgets/front-widgets/widget-front-layout4.php:88
+#: widgets/front-widgets/widget-front-layout9.php:86
+msgid "Select Category 2: "
+msgstr ""
+
+#: widgets/front-widgets/widget-front-layout4.php:107
+msgid "Post No 2: "
+msgstr ""
+
+#: widgets/front-widgets/widget-front-layout5.php:24
+msgid ""
+"Trend News Block Layout Five. Place it within \"Frontpage Layouts Area\""
+msgstr ""
+
+#: widgets/front-widgets/widget-front-layout5.php:27
+msgid "TN: News Block Layout 5"
+msgstr ""
+
+#: widgets/front-widgets/widget-front-layout5.php:38
+msgid "Display News Block Layout 5"
+msgstr ""
+
+#: widgets/front-widgets/widget-front-layout5.php:42
+#: widgets/front-widgets/widget-front-layout8.php:55
+msgid "Select Category For Slider: "
+msgstr ""
+
+#: widgets/front-widgets/widget-front-layout5.php:61
+#: widgets/front-widgets/widget-front-layout8.php:73
+#: widgets/front-widgets/widget-front-layout9.php:130
+msgid "Post No For Slider: "
+msgstr ""
+
+#: widgets/front-widgets/widget-front-layout6.php:24
+msgid "Trend News Block Layout Six. Place it within \"Frontpage Layouts Area\""
+msgstr ""
+
+#: widgets/front-widgets/widget-front-layout6.php:27
+msgid "TN: News Block Layout 6"
+msgstr ""
+
+#: widgets/front-widgets/widget-front-layout6.php:33
+msgid "Hot News"
+msgstr ""
+
+#: widgets/front-widgets/widget-front-layout6.php:40
+msgid "Display News Block Layout 6"
+msgstr ""
+
+#: widgets/front-widgets/widget-front-layout6.php:43
+msgid "Select Category For Tabs:"
+msgstr ""
+
+#: widgets/front-widgets/widget-front-layout7.php:24
+msgid ""
+"Trend News Block Layout Seven. Place it within \"Frontpage Layouts Area\""
+msgstr ""
+
+#: widgets/front-widgets/widget-front-layout7.php:27
+msgid "TN: News Block Layout 7"
+msgstr ""
+
+#: widgets/front-widgets/widget-front-layout7.php:35
+msgid "Layout 7"
+msgstr ""
+
+#: widgets/front-widgets/widget-front-layout7.php:42
+msgid "Display News Block Layout 7"
+msgstr ""
+
+#: widgets/front-widgets/widget-front-layout7.php:53
+msgid "Select Category: "
+msgstr ""
+
+#: widgets/front-widgets/widget-front-layout8.php:24
+msgid ""
+"Trend News Block Layout Eight. Place it within \"Frontpage Layouts Area\""
+msgstr ""
+
+#: widgets/front-widgets/widget-front-layout8.php:27
+msgid "TN: News Block Layout 8"
+msgstr ""
+
+#: widgets/front-widgets/widget-front-layout8.php:35
+#: widgets/front-widgets/widget-front-layout8.php:109
+msgid "Layout 8"
+msgstr ""
+
+#: widgets/front-widgets/widget-front-layout8.php:44
+msgid "Display News Block Layout 8"
+msgstr ""
+
+#: widgets/front-widgets/widget-front-layout8.php:78
+msgid "Select Category For News: "
+msgstr ""
+
+#: widgets/front-widgets/widget-front-layout8.php:155
+msgid "Full Article"
+msgstr ""
+
+#: widgets/front-widgets/widget-front-layout9.php:24
+msgid ""
+"Trend News Block Layout Nine. Place it within \"Frontpage Layouts Area\""
+msgstr ""
+
+#: widgets/front-widgets/widget-front-layout9.php:27
+msgid "TN: News Block Layout 9"
+msgstr ""
+
+#: widgets/front-widgets/widget-front-layout9.php:51
+msgid "Display News Block Layout 9"
+msgstr ""
+
+#: widgets/front-widgets/widget-front-layout9.php:105
+msgid "Title 3: "
+msgstr ""
+
+#: widgets/front-widgets/widget-front-layout9.php:111
+msgid "Select Category 3: "
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Trend News"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://wpnewstheme.com/item/trend-news"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Trendnews is a super clean, elegant and up to date (Following the new trends "
+"in design) WordPress theme. Trendnews integrated with many plugins with lots "
+"of features, custom widgets, unlimited color schemes, Mega Menu  and more. "
+"Trendnews would be a perfect choice for any news, newspaper, magazine and "
+"blog publishing websites."
+"View Demo : https://wpnewstheme.com/demos/trendnews/"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "wpnewstheme"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.wpnewstheme.com/"
+msgstr ""
